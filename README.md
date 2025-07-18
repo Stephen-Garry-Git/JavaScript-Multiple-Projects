@@ -162,5 +162,5 @@ This project is open source under the MIT License.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/Stephen-Garry-Git/30Days-Of-JavaScript.git
+   git clone https://github.com/Stephen-Garry-Git/JavaScript-Multiple-Projects.git
    cd 30-Days-JavaScript-Challenge
